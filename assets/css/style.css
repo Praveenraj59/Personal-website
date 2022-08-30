@@ -11608,6 +11608,14 @@ pre .code {
   background: rgba(242, 244, 247, 0.15);
 }
 
+.sen .sen-head{
+  text-align: center;
+}
+
+.sen .sen-para{
+  text-align: justify;
+}
+
 .about-section {
   border-bottom: 1px solid #dee2e6;
 }
