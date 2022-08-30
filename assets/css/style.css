@@ -11609,11 +11609,12 @@ pre .code {
 }
 
 .sen .sen-head{
+  color:;
   text-align: center;
 }
 
 .sen .sen-para{
-  text-align: justify;
+  text-indent: 100px;
 }
 
 .about-section {
